@@ -13,7 +13,6 @@ title: 13AI
 
   <h1>好文推荐</h1>
   <ul class="posts">
-    <li><span>29 Mar 2019</span> &raquo; <a href="http://www.markdown.cn/"> Markdown 语法说明</a></li> 
     <li><span>01 May 2019</span> &raquo; <a href="https://inkscape.org/zh/learn/tutorials/"> Inkscape 教程</a></li> 
   
   </ul>
